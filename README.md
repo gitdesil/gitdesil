@@ -1,4 +1,4 @@
- ### **¡Hey there !** I´m Silvana 👋<sub> www.linkedin.com/in/silvanabarea</sub>
+ ### **¡Hey there !** I´m Silvana 👋 <sub> www.linkedin.com/in/silvanabarea</sub>
 
 <!--
 **gitdesil/gitdesil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
