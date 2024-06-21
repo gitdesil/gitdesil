@@ -1,4 +1,4 @@
- ### **¡Hey there !** I´m Silvana 👋 <sub> www.linkedin.com/in/silvanabarea</sub>
+ ### **¡Hey there !** I´m Silvana 👋 <sub> [www.linkedin.com/in/silvanabarea](https://www.linkedin.com/in/silvana-barea-57b36089/)</sub>
 descargar Cv ==> https://github.com/gitdesil/gitdesil/tree/main/CV%20-%20Silvana
 
 Estimados,
